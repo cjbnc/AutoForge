@@ -1,0 +1,5 @@
+Start with your background color
+At layer #6.0 (0.48mm) swap to Elegoo - Orange
+At layer #11.0 (0.88mm) swap to Elegoo - White
+For the rest, use Elegoo - White
+- goes up to #30.0 (2.40mm)
