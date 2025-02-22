@@ -2,7 +2,7 @@ python auto_forge.py \
   --input_image samples/snow_corgi.jpg \
   --csv_file samples/dogs.csv \
   --output_folder outputs \
-  --iterations 80000 \
+  --iterations 30000 \
   --learning_rate 0.01 \
   --layer_height 0.08 \
   --max_layers 25 \
