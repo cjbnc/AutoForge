@@ -1,0 +1,13 @@
+Start with your background color
+At layer #6.0 (0.48mm) swap to BambuLab Basic - Black
+At layer #8.0 (0.64mm) swap to Elegoo - Orange
+At layer #9.0 (0.72mm) swap to BambuLab Basic - Black
+At layer #10.0 (0.80mm) swap to Elegoo - Orange
+At layer #11.0 (0.88mm) swap to PolyChroma Matte - Army Brown
+At layer #15.0 (1.20mm) swap to Elegoo - Orange
+At layer #16.0 (1.28mm) swap to Kingroon - Green
+At layer #17.0 (1.36mm) swap to Elegoo - Orange
+At layer #20.0 (1.60mm) swap to Elegoo - White
+At layer #22.0 (1.76mm) swap to Elegoo - Orange
+At layer #23.0 (1.84mm) swap to Elegoo - White
+For the rest, use Elegoo - White
