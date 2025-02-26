@@ -1,0 +1,9 @@
+Brand, Type, Color, Name, TD, Owned, Uuid
+Anycubic,PLA,#e63d41,Bright Red,3.2,false,{6ec174c6-681c-41ed-80d5-d361611fa110}
+Bambu,PLA,#000000,Black,0.6,false,{43eb13d1-f422-4d84-9bce-37a0e10a2158}
+Bambu,PLA,#384290,Blue,3.2,false,{766f745e-c390-4c9d-8653-b16db19a1228}
+Bambu,PLA,#ec008c,Magenta,4,false,{47cc226d-c7d9-48c8-b848-2c481cebb53c}
+Elegoo,PLA,#6e55ac,Purple,3.5,false,{5dd0d675-5b3c-4420-902d-aa697e2fb39a}
+Elegoo,PLA+,#e7ecf0,White,6.4,false,{2822784a-a630-4b2f-9938-92fb59974924}
+Polyterra,PLA,#6f727e,Fossil Grey,0.3,false,{abcd}
+3DHoJor,PLA,#363e53,Grey,2.2,false,{deadbe}

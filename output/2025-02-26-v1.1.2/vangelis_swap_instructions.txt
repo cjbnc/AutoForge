@@ -1,0 +1,18 @@
+Start with your background color
+At layer #10.0 (0.40mm) swap to Anycubic - Bright Red
+At layer #11.0 (0.44mm) swap to Elegoo - Brown
+At layer #21.0 (0.84mm) swap to Elegoo - Orange
+At layer #22.0 (0.88mm) swap to Elegoo - Brown
+At layer #24.0 (0.96mm) swap to Elegoo - Orange
+At layer #32.0 (1.28mm) swap to Bambu - Yellow
+At layer #33.0 (1.32mm) swap to Elegoo - Orange
+At layer #35.0 (1.40mm) swap to Elegoo - Brown
+At layer #36.0 (1.44mm) swap to Bambu - Yellow
+At layer #37.0 (1.48mm) swap to Elegoo - Orange
+At layer #42.0 (1.68mm) swap to Bambu - Yellow
+At layer #43.0 (1.72mm) swap to Elegoo - Orange
+At layer #44.0 (1.76mm) swap to Bambu - Yellow
+At layer #47.0 (1.88mm) swap to Elegoo - Orange
+At layer #49.0 (1.96mm) swap to Bambu - Yellow
+At layer #53.0 (2.12mm) swap to Elegoo - White
+For the rest, use Elegoo - White

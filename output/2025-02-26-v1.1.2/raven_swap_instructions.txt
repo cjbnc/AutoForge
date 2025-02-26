@@ -1,0 +1,17 @@
+Start with your background color
+At layer #10.0 (0.40mm) swap to 3DHoJor - Grey
+At layer #13.0 (0.52mm) swap to Bambu - Black
+At layer #14.0 (0.56mm) swap to 3DHoJor - Grey
+At layer #26.0 (1.04mm) swap to Anycubic - Bright Red
+At layer #27.0 (1.08mm) swap to 3DHoJor - Grey
+At layer #28.0 (1.12mm) swap to Elegoo - Purple
+At layer #29.0 (1.16mm) swap to 3DHoJor - Grey
+At layer #30.0 (1.20mm) swap to Polyterra - Fossil Grey
+At layer #33.0 (1.32mm) swap to 3DHoJor - Grey
+At layer #34.0 (1.36mm) swap to Polyterra - Fossil Grey
+At layer #45.0 (1.80mm) swap to Elegoo - White
+At layer #46.0 (1.84mm) swap to Elegoo - Purple
+At layer #47.0 (1.88mm) swap to Elegoo - White
+At layer #49.0 (1.96mm) swap to Anycubic - Bright Red
+At layer #50.0 (2.00mm) swap to Elegoo - White
+For the rest, use Elegoo - White
